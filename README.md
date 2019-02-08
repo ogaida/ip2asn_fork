@@ -25,7 +25,7 @@ wget https://iptoasn.com/data/ip2asn-v6.tsv.gz
 
 ## Requirements
 - Python3
-- IP to ASN DB file (**distributed [here](https://iptoasn.com/)**)
+- IP to ASN DB file (**available [here](https://iptoasn.com/)**)
 - Set the correct DB file path
 
 ## Usage
