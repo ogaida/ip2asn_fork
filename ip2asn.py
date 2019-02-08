@@ -163,7 +163,7 @@ def main():
     # ----- Convert str object to IPv4Address object or IPv6Address object -----
     inputted_ip_addr = convert_str_to_ip(argvs[1])
 
-    # ----- Check if the inputted IP address is a global IP address
+    # ----- Check if the inputted IP address is a global IP address -----
     if not(inputted_ip_addr.is_global):
         print('\'{0}\' is not a global IP address'.format(inputted_ip_addr))
         sys.exit(1)
@@ -171,7 +171,7 @@ def main():
     # ----- Search the correct ASN by Binary Search -----
     as_number, as_description, country_code = search_asn(inputted_ip_addr)
 
-    # ----- Display the reuslt of ASN search.
+    # ----- Display the reuslt of ASN search -----
     print('[+] ASN: {0}'.format(as_number))
     print('[+] AS Description: {0}'.format(as_description))
     print('[+] Country Code: {0}'.format(country_code))
