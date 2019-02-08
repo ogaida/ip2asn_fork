@@ -11,12 +11,14 @@ git clone https://github.com/cute-0tter/ip2asn/
 ```
 
 ### IP to ASN DB file (Required)
+#### IPv4
 ```
 wget https://iptoasn.com/data/ip2asn-v4.tsv.gz
 ```
 
 or
 
+#### IPv6
 ```
 wget https://iptoasn.com/data/ip2asn-v6.tsv.gz
 ```
