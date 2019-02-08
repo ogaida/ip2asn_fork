@@ -1,7 +1,7 @@
 # ip2asn
 
 ## Description
-You can get ASN(AS number) from an IPv4 or IPv6 address.  
+You can get an ASN(AS number) from an IPv4 or IPv6 address.  
 Thanks to https://iptoasn.com.
 
 ## Installation
