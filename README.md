@@ -10,7 +10,7 @@ Thanks to https://iptoasn.com.
 git clone https://github.com/cute-0tter/ip2asn/
 ```
 
-### IP to ASN DB file
+### IP to ASN DB file (Required)
 ```
 wget https://iptoasn.com/data/ip2asn-v4.tsv.gz
 ```
