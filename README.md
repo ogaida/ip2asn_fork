@@ -43,7 +43,6 @@ python ip2asn.py 214.0.0.1
 ```
 $ python3 ip2asn.py 214.0.0.1
 [+] ASN: 721
-[+] AS Description: DNIC-ASBLK-00721-00726 - DoD Network Information 
-Center
+[+] AS Description: DNIC-ASBLK-00721-00726 - DoD Network Information Center
 [+] Country Code: US
 ```
