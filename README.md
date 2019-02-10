@@ -38,3 +38,12 @@ ex.
 ```
 python ip2asn.py 214.0.0.1
 ```
+
+## Sample
+```
+$ python3 ip2asn.py 214.0.0.1
+[+] ASN: 721
+[+] AS Description: DNIC-ASBLK-00721-00726 - DoD Network Information 
+Center
+[+] Country Code: US
+```
